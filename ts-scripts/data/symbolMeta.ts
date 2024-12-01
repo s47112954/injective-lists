@@ -2093,5 +2093,13 @@ export const symbolMeta: Record<string, TokenSymbolMeta> = {
     name: 'ShroomAI',
     logo: 'sai.webp',
     coinGeckoId: ''
+  },
+
+    MANGO: {
+    name: 'Mangosteen Token',
+    logo: 'mango.png',
+    coinGeckoId: '',
+    symbol: 'MANGO',
+    decimals: 6
   }
 }
