@@ -864,6 +864,17 @@
     "tokenVerification": "internal"
   },
   {
+    "decimals": 9,
+    "symbol": "UAT2Dec",
+    "name": "factory/inj12hc8jy72gggu92te465syftcp8zjr0dnxxa8cv/UAT2Dec",
+    "logo": "unknown.png",
+    "coinGeckoId": "",
+    "address": "factory/inj12hc8jy72gggu92te465syftcp8zjr0dnxxa8cv/UAT2Dec",
+    "denom": "factory/inj12hc8jy72gggu92te465syftcp8zjr0dnxxa8cv/UAT2Dec",
+    "tokenType": "tokenFactory",
+    "tokenVerification": "internal"
+  },
+  {
     "decimals": 0,
     "symbol": "Unknown",
     "name": "factory/inj12hlpupnx80wj2ummwrjuw99mvr8a2z7us28n0g/position",
@@ -26746,6 +26757,17 @@
     "coinGeckoId": "",
     "address": "factory/inj1r9qmt3gh265wgfrenr8n4myag39ln3mpczw6uw/BTC",
     "denom": "factory/inj1r9qmt3gh265wgfrenr8n4myag39ln3mpczw6uw/BTC",
+    "tokenType": "tokenFactory",
+    "tokenVerification": "internal"
+  },
+  {
+    "decimals": 9,
+    "symbol": "Dec2",
+    "name": "factory/inj1ra0lze8mz8cvlh7xst736xpdet73lp2pzrc443/Dec2",
+    "logo": "unknown.png",
+    "coinGeckoId": "",
+    "address": "factory/inj1ra0lze8mz8cvlh7xst736xpdet73lp2pzrc443/Dec2",
+    "denom": "factory/inj1ra0lze8mz8cvlh7xst736xpdet73lp2pzrc443/Dec2",
     "tokenType": "tokenFactory",
     "tokenVerification": "internal"
   },
