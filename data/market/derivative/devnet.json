@@ -20,13 +20,13 @@
     "perpetualMarketInfo": {
       "hourlyFundingRateCap": "0.000625",
       "hourlyInterestRate": "0.00000416666",
-      "nextFundingTimestamp": 1733116060,
+      "nextFundingTimestamp": 1733119660,
       "fundingInterval": 3600
     },
     "perpetualMarketFunding": {
-      "cumulativeFunding": "-1572221.875",
-      "cumulativePrice": "-78.225430968513906542",
-      "lastTimestamp": 1733114929
+      "cumulativeFunding": "-1772346.96251348993523",
+      "cumulativePrice": "-29.683180053705842228",
+      "lastTimestamp": 1733116921
     }
   },
   {
@@ -50,13 +50,13 @@
     "perpetualMarketInfo": {
       "hourlyFundingRateCap": "0.000625",
       "hourlyInterestRate": "0.00000416666",
-      "nextFundingTimestamp": 1733116060,
+      "nextFundingTimestamp": 1733119660,
       "fundingInterval": 3600
     },
     "perpetualMarketFunding": {
-      "cumulativeFunding": "71445.6875",
-      "cumulativePrice": "158.286977607990684797",
-      "lastTimestamp": 1733114909
+      "cumulativeFunding": "77940.75",
+      "cumulativePrice": "55.269512418086815809",
+      "lastTimestamp": 1733116917
     }
   },
   {
@@ -80,13 +80,13 @@
     "perpetualMarketInfo": {
       "hourlyFundingRateCap": "0.000625",
       "hourlyInterestRate": "0.00000416666",
-      "nextFundingTimestamp": 1733116060,
+      "nextFundingTimestamp": 1733119660,
       "fundingInterval": 3600
     },
     "perpetualMarketFunding": {
-      "cumulativeFunding": "-102743.544190555801266832",
-      "cumulativePrice": "-48.48439878410452622",
-      "lastTimestamp": 1733114924
+      "cumulativeFunding": "-104702.9321896711210876",
+      "cumulativePrice": "-2.387963256109385688",
+      "lastTimestamp": 1733116927
     }
   },
   {
@@ -110,7 +110,7 @@
     "perpetualMarketInfo": {
       "hourlyFundingRateCap": "0.000625",
       "hourlyInterestRate": "0.00000416666",
-      "nextFundingTimestamp": 1733116060,
+      "nextFundingTimestamp": 1733119660,
       "fundingInterval": 3600
     },
     "perpetualMarketFunding": {
@@ -170,13 +170,13 @@
     "perpetualMarketInfo": {
       "hourlyFundingRateCap": "0.000625",
       "hourlyInterestRate": "0.00000416666",
-      "nextFundingTimestamp": 1733116060,
+      "nextFundingTimestamp": 1733119660,
       "fundingInterval": 3600
     },
     "perpetualMarketFunding": {
-      "cumulativeFunding": "-10909.42781434343025",
-      "cumulativePrice": "-87.728336755646817126",
-      "lastTimestamp": 1733114923
+      "cumulativeFunding": "-20040.67781434343025",
+      "cumulativePrice": "-32.100000000000000012",
+      "lastTimestamp": 1733116937
     }
   },
   {
@@ -200,7 +200,7 @@
     "perpetualMarketInfo": {
       "hourlyFundingRateCap": "0.000625",
       "hourlyInterestRate": "0.00000416666",
-      "nextFundingTimestamp": 1733116060,
+      "nextFundingTimestamp": 1733119660,
       "fundingInterval": 3600
     },
     "perpetualMarketFunding": {
@@ -260,13 +260,13 @@
     "perpetualMarketInfo": {
       "hourlyFundingRateCap": "0.000625",
       "hourlyInterestRate": "0.00000416666",
-      "nextFundingTimestamp": 1733116060,
+      "nextFundingTimestamp": 1733119660,
       "fundingInterval": 3600
     },
     "perpetualMarketFunding": {
-      "cumulativeFunding": "-16547.2641773119837821",
-      "cumulativePrice": "-88.509396819917230655",
-      "lastTimestamp": 1733114928
+      "cumulativeFunding": "-31755.2016773119837821",
+      "cumulativePrice": "-2.560204991636768613",
+      "lastTimestamp": 1733116918
     }
   },
   {
@@ -290,7 +290,7 @@
     "perpetualMarketInfo": {
       "hourlyFundingRateCap": "0.000625",
       "hourlyInterestRate": "0.00000416666",
-      "nextFundingTimestamp": 1733116060,
+      "nextFundingTimestamp": 1733119660,
       "fundingInterval": 3600
     },
     "perpetualMarketFunding": {
